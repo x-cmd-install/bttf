@@ -5,7 +5,7 @@ about:
   head: fa8b543
   archived: false
   latestVersion: "0.1.4"
-  collectedAt: 2026-09-07T05:25:22Z
+  collectedAt: 2026-09-07T19:00:19Z
 timeline:
   created: 2025-03-08
   lastCommit: 2026-08-03
@@ -80,7 +80,7 @@ total:
   commit: 40
 ---
 path: /home/runner/.x-repo/github.com/BurntSushi/bttf
-collectedAt: 2026-09-07T05:25:23Z
+collectedAt: 2026-09-07T19:00:23Z
 loc:
   Rust:
     code: 19620
@@ -116,7 +116,7 @@ total:
 
 ---
 eget:
-  collectedAt: 2026-09-07T05:25:23+00:00
+  collectedAt: 2026-09-07T19:00:25+00:00
   platform:
     darwin/arm64:
       name:  bttf-0.1.4-aarch64-apple-darwin.tar.gz
