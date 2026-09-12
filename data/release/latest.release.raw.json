@@ -211,7 +211,7 @@
       "state": "uploaded",
       "size": 2669104,
       "digest": "sha256:8d28dbea7fc9d3645df24477a40a3d09baa221f993f2857baec09b5b8ef96923",
-      "download_count": 8,
+      "download_count": 9,
       "created_at": "2026-05-28T15:22:54Z",
       "updated_at": "2026-05-28T15:22:55Z",
       "browser_download_url": "https://github.com/BurntSushi/bttf/releases/download/0.1.4/bttf-0.1.4-armv7-unknown-linux-gnueabihf.tar.gz"
@@ -931,7 +931,7 @@
       "state": "uploaded",
       "size": 2796989,
       "digest": "sha256:4bf2e657f7b04ddcd73861c825f8622f8fd8994e860d756e8fa7e02f01acebcd",
-      "download_count": 119,
+      "download_count": 120,
       "created_at": "2026-05-28T15:23:08Z",
       "updated_at": "2026-05-28T15:23:08Z",
       "browser_download_url": "https://github.com/BurntSushi/bttf/releases/download/0.1.4/bttf-0.1.4-x86_64-unknown-linux-musl.tar.gz"
