@@ -47,12 +47,12 @@ Total: **19,747** lines of code across **84** files in the top 5 languages.
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-14 | 0 | 0 | 1 | 0 | 0 | 0 |
-| last60d | 2026-07-15 | 0 | 1 | 1 | 0 | 1 | 1 |
-| 90d | 2026-06-15 | 0 | 1 | 1 | 0 | 1 | 1 |
-| last180d | 2026-03-17 | 2 | 10 | 1 | 1 | 2 | 15 |
-| 360d | 2025-09-18 | 3 | 10 | 1 | 2 | 2 | 27 |
-| last720d | 2024-09-23 | 4 | 11 | 1 | 3 | 2 | 40 |
+| 30d | 2026-08-15 | 0 | 0 | 1 | 0 | 0 | 0 |
+| last60d | 2026-07-16 | 0 | 1 | 1 | 0 | 1 | 1 |
+| 90d | 2026-06-16 | 0 | 1 | 1 | 0 | 1 | 1 |
+| last180d | 2026-03-18 | 2 | 10 | 1 | 1 | 2 | 15 |
+| 360d | 2025-09-19 | 3 | 10 | 1 | 2 | 2 | 27 |
+| last720d | 2024-09-24 | 4 | 11 | 1 | 3 | 2 | 40 |
 
 ## Release assets
 
@@ -85,15 +85,6 @@ Total: **19,747** lines of code across **84** files in the top 5 languages.
 | [bttf-0.1.4-x86_64-unknown-linux-musl.tar.gz](https://github.com/BurntSushi/bttf/releases/download/0.1.4/bttf-0.1.4-x86_64-unknown-linux-musl.tar.gz) | 2.7 MiB | `native/linux/x64/musl` |
 | [bttf-0.1.4-x86_64-unknown-linux-musl.tar.gz.sha256](https://github.com/BurntSushi/bttf/releases/download/0.1.4/bttf-0.1.4-x86_64-unknown-linux-musl.tar.gz.sha256) | 110 B | `native/linux/x64/musl` |
 
-## Distribution status
-
-Reported by **7** distros on [repology.org](https://repology.org/project/bttf). **6** are ✅ on the latest upstream release, **0** are ⚠️ on an older version.
-
-| Distro | Version | Status |
-|--------|---------|--------|
-| Homebrew | `0.1.4` | ✅ latest |
-| Nix unstable | `0.1.4` | ✅ latest |
-
 ## Improve this data
 
 Install metadata for bttf lives in the [x-cmd/install](https://github.com/x-cmd/install) index — a curated YAML package list that x-cmd consumes at install time. If `bttf` is missing, out of date, or installs incorrectly, please open an issue or PR there:
@@ -103,4 +94,4 @@ Install metadata for bttf lives in the [x-cmd/install](https://github.com/x-cmd/
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260913.yml` · 2026-09-13T05:45:09Z._
+_Snapshot: `data/card/260914.yml` · 2026-09-14T05:52:47Z._
