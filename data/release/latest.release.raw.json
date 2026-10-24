@@ -463,7 +463,7 @@
       "state": "uploaded",
       "size": 172,
       "digest": "sha256:f4e33fd56ad43afb2ba678a2b9fc84a1eddb421256545c3a07e8fab83d41df9a",
-      "download_count": 9,
+      "download_count": 10,
       "created_at": "2026-05-28T15:23:19Z",
       "updated_at": "2026-05-28T15:23:19Z",
       "browser_download_url": "https://github.com/BurntSushi/bttf/releases/download/0.1.4/bttf-0.1.4-i686-pc-windows-msvc.zip.sha256"
@@ -715,7 +715,7 @@
       "state": "uploaded",
       "size": 2585314,
       "digest": "sha256:14c67b286faec21dce91003a0f3a548b82239ed3195f73fc171333031ddee232",
-      "download_count": 10,
+      "download_count": 11,
       "created_at": "2026-05-28T15:22:32Z",
       "updated_at": "2026-05-28T15:22:32Z",
       "browser_download_url": "https://github.com/BurntSushi/bttf/releases/download/0.1.4/bttf-0.1.4-x86_64-apple-darwin.tar.gz"
@@ -751,7 +751,7 @@
       "state": "uploaded",
       "size": 104,
       "digest": "sha256:4fdbf961638fa17e86934ead6602426776fac2690c1b69b9d4e2adb00f7d1bd2",
-      "download_count": 6,
+      "download_count": 7,
       "created_at": "2026-05-28T15:22:32Z",
       "updated_at": "2026-05-28T15:22:32Z",
       "browser_download_url": "https://github.com/BurntSushi/bttf/releases/download/0.1.4/bttf-0.1.4-x86_64-apple-darwin.tar.gz.sha256"
@@ -823,7 +823,7 @@
       "state": "uploaded",
       "size": 173,
       "digest": "sha256:7ac9bf0bacfce82f3086fa72a1cf5c27571fa1c0f248bcbb92c0a4a9e800dc36",
-      "download_count": 5,
+      "download_count": 6,
       "created_at": "2026-05-28T15:23:49Z",
       "updated_at": "2026-05-28T15:23:50Z",
       "browser_download_url": "https://github.com/BurntSushi/bttf/releases/download/0.1.4/bttf-0.1.4-x86_64-pc-windows-gnu.zip.sha256"
@@ -859,7 +859,7 @@
       "state": "uploaded",
       "size": 2526174,
       "digest": "sha256:9614043c7701fb523cd222e932cd7bb4faf22eb0334b8248fb4a6158a61a43ed",
-      "download_count": 245,
+      "download_count": 252,
       "created_at": "2026-05-28T15:23:11Z",
       "updated_at": "2026-05-28T15:23:12Z",
       "browser_download_url": "https://github.com/BurntSushi/bttf/releases/download/0.1.4/bttf-0.1.4-x86_64-pc-windows-msvc.zip"
@@ -895,7 +895,7 @@
       "state": "uploaded",
       "size": 174,
       "digest": "sha256:a43680c7d4376412a69ff1a6f031fb740c2c12b7aad69f8c90a92275629411f2",
-      "download_count": 14,
+      "download_count": 15,
       "created_at": "2026-05-28T15:23:11Z",
       "updated_at": "2026-05-28T15:23:12Z",
       "browser_download_url": "https://github.com/BurntSushi/bttf/releases/download/0.1.4/bttf-0.1.4-x86_64-pc-windows-msvc.zip.sha256"
@@ -931,7 +931,7 @@
       "state": "uploaded",
       "size": 2796989,
       "digest": "sha256:4bf2e657f7b04ddcd73861c825f8622f8fd8994e860d756e8fa7e02f01acebcd",
-      "download_count": 184,
+      "download_count": 185,
       "created_at": "2026-05-28T15:23:08Z",
       "updated_at": "2026-05-28T15:23:08Z",
       "browser_download_url": "https://github.com/BurntSushi/bttf/releases/download/0.1.4/bttf-0.1.4-x86_64-unknown-linux-musl.tar.gz"
@@ -967,7 +967,7 @@
       "state": "uploaded",
       "size": 110,
       "digest": "sha256:4417a8f99c303984405e9c12f771ad9480714532b4d79f412ad590d65212d0fd",
-      "download_count": 12,
+      "download_count": 13,
       "created_at": "2026-05-28T15:23:08Z",
       "updated_at": "2026-05-28T15:23:08Z",
       "browser_download_url": "https://github.com/BurntSushi/bttf/releases/download/0.1.4/bttf-0.1.4-x86_64-unknown-linux-musl.tar.gz.sha256"
