@@ -14,11 +14,11 @@ x install bttf
 
 ## 代码洞察
 
-合计: **19,747** 行代码（覆盖前 5 种语言、共 **84** 个文件）。
+合计: **19,784** 行代码（覆盖前 5 种语言、共 **84** 个文件）。
 
 | 语言 | 代码 | 注释 | 空行 | 文件数 |
 |------|-----:|-----:|-----:|------:|
-| Rust | 19,620 | 821 | 1,677 | 76 |
+| Rust | 19,657 | 821 | 1,677 | 76 |
 | Toml | 99 | 7 | 8 | 2 |
 | Xml | 21 | 7 | 0 | 1 |
 | Sh | 7 | 6 | 1 | 1 |
@@ -31,68 +31,68 @@ x install bttf
 
 ## 发布
 
-- **最新版本**: `0.1.4` (2026-05-28)
-- **最近提交**: 2026-08-03
+- **最新版本**: `0.2.0` (2026-11-22)
+- **最近提交**: 2026-11-22
 - **Release 含资产**: 26 个
 
 ## 流行度
 
-- **Star**: 767 · **Fork**: 14 · **开放 issue**: 6 · **贡献者**: 4
+- **Star**: 768 · **Fork**: 14 · **开放 issue**: 6 · **贡献者**: 4
 
 ## 累计统计
 
-- **发布数**: 4 · **已合并 PR**: 11 · **开放 PR**: 1 · **已关闭 issue**: 4 · **开放 issue**: 2 · **提交数**: 40
+- **发布数**: 5 · **已合并 PR**: 11 · **开放 PR**: 0 · **已关闭 issue**: 6 · **开放 issue**: 0 · **提交数**: 46
 
 ## 最近活动
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-23 | 0 | 0 | 0 | 0 | 0 | 0 |
-| last60d | 2026-09-23 | 0 | 0 | 0 | 1 | 0 | 0 |
-| 90d | 2026-08-24 | 0 | 0 | 1 | 1 | 0 | 0 |
-| last180d | 2026-05-26 | 2 | 8 | 1 | 2 | 2 | 1 |
-| 360d | 2025-11-27 | 2 | 10 | 1 | 2 | 2 | 22 |
-| last720d | 2024-12-02 | 4 | 11 | 1 | 4 | 2 | 40 |
+| 30d | 2026-10-24 | 1 | 0 | 0 | 0 | 0 | 0 |
+| last60d | 2026-09-24 | 1 | 0 | 0 | 1 | 0 | 0 |
+| 90d | 2026-08-25 | 1 | 0 | 0 | 1 | 0 | 0 |
+| last180d | 2026-05-27 | 3 | 8 | 0 | 4 | 0 | 0 |
+| 360d | 2025-11-28 | 3 | 10 | 0 | 4 | 0 | 0 |
+| last720d | 2024-12-03 | 5 | 11 | 0 | 6 | 0 | 46 |
 
 ## Release 资产
 
 | 资产 | 大小 | 目标平台 |
 |------|-----:|----------|
-| [bttf-0.1.4-aarch64-apple-darwin.tar.gz](https://github.com/BurntSushi/bttf/releases/download/0.1.4/bttf-0.1.4-aarch64-apple-darwin.tar.gz) | 2.4 MiB | `native/darwin/arm64` |
-| [bttf-0.1.4-aarch64-apple-darwin.tar.gz.sha256](https://github.com/BurntSushi/bttf/releases/download/0.1.4/bttf-0.1.4-aarch64-apple-darwin.tar.gz.sha256) | 105 B | `native/darwin/arm64` |
-| [bttf-0.1.4-aarch64-unknown-linux-gnu.tar.gz](https://github.com/BurntSushi/bttf/releases/download/0.1.4/bttf-0.1.4-aarch64-unknown-linux-gnu.tar.gz) | 2.5 MiB | `native/linux/arm64/glibc` |
-| [bttf-0.1.4-aarch64-unknown-linux-gnu.tar.gz.sha256](https://github.com/BurntSushi/bttf/releases/download/0.1.4/bttf-0.1.4-aarch64-unknown-linux-gnu.tar.gz.sha256) | 110 B | `native/linux/arm64/glibc` |
-| [bttf-0.1.4-armv7-unknown-linux-gnueabihf.tar.gz](https://github.com/BurntSushi/bttf/releases/download/0.1.4/bttf-0.1.4-armv7-unknown-linux-gnueabihf.tar.gz) | 2.5 MiB | `native/linux/arm/glibc` |
-| [bttf-0.1.4-armv7-unknown-linux-gnueabihf.tar.gz.sha256](https://github.com/BurntSushi/bttf/releases/download/0.1.4/bttf-0.1.4-armv7-unknown-linux-gnueabihf.tar.gz.sha256) | 114 B | `native/linux/arm/glibc` |
-| [bttf-0.1.4-armv7-unknown-linux-musleabi.tar.gz](https://github.com/BurntSushi/bttf/releases/download/0.1.4/bttf-0.1.4-armv7-unknown-linux-musleabi.tar.gz) | 2.5 MiB | `native/linux/arm/musl` |
-| [bttf-0.1.4-armv7-unknown-linux-musleabi.tar.gz.sha256](https://github.com/BurntSushi/bttf/releases/download/0.1.4/bttf-0.1.4-armv7-unknown-linux-musleabi.tar.gz.sha256) | 113 B | `native/linux/arm/musl` |
-| [bttf-0.1.4-armv7-unknown-linux-musleabihf.tar.gz](https://github.com/BurntSushi/bttf/releases/download/0.1.4/bttf-0.1.4-armv7-unknown-linux-musleabihf.tar.gz) | 2.5 MiB | `native/linux/arm/musl` |
-| [bttf-0.1.4-armv7-unknown-linux-musleabihf.tar.gz.sha256](https://github.com/BurntSushi/bttf/releases/download/0.1.4/bttf-0.1.4-armv7-unknown-linux-musleabihf.tar.gz.sha256) | 115 B | `native/linux/arm/musl` |
-| [bttf-0.1.4-i686-pc-windows-msvc.zip](https://github.com/BurntSushi/bttf/releases/download/0.1.4/bttf-0.1.4-i686-pc-windows-msvc.zip) | 2.4 MiB | `native/win/x64` |
-| [bttf-0.1.4-i686-pc-windows-msvc.zip.sha256](https://github.com/BurntSushi/bttf/releases/download/0.1.4/bttf-0.1.4-i686-pc-windows-msvc.zip.sha256) | 172 B | `native/win/x64` |
-| [bttf-0.1.4-i686-unknown-linux-gnu.tar.gz](https://github.com/BurntSushi/bttf/releases/download/0.1.4/bttf-0.1.4-i686-unknown-linux-gnu.tar.gz) | 2.6 MiB | `native/linux/x86/glibc` |
-| [bttf-0.1.4-i686-unknown-linux-gnu.tar.gz.sha256](https://github.com/BurntSushi/bttf/releases/download/0.1.4/bttf-0.1.4-i686-unknown-linux-gnu.tar.gz.sha256) | 107 B | `native/linux/x86/glibc` |
-| [bttf-0.1.4-powerpc64-unknown-linux-gnu.tar.gz](https://github.com/BurntSushi/bttf/releases/download/0.1.4/bttf-0.1.4-powerpc64-unknown-linux-gnu.tar.gz) | 2.9 MiB | `native/unknown` |
-| [bttf-0.1.4-powerpc64-unknown-linux-gnu.tar.gz.sha256](https://github.com/BurntSushi/bttf/releases/download/0.1.4/bttf-0.1.4-powerpc64-unknown-linux-gnu.tar.gz.sha256) | 112 B | `other` |
-| [bttf-0.1.4-s390x-unknown-linux-gnu.tar.gz](https://github.com/BurntSushi/bttf/releases/download/0.1.4/bttf-0.1.4-s390x-unknown-linux-gnu.tar.gz) | 2.8 MiB | `native/unknown` |
-| [bttf-0.1.4-s390x-unknown-linux-gnu.tar.gz.sha256](https://github.com/BurntSushi/bttf/releases/download/0.1.4/bttf-0.1.4-s390x-unknown-linux-gnu.tar.gz.sha256) | 108 B | `other` |
-| [bttf-0.1.4-x86_64-apple-darwin.tar.gz](https://github.com/BurntSushi/bttf/releases/download/0.1.4/bttf-0.1.4-x86_64-apple-darwin.tar.gz) | 2.5 MiB | `native/darwin/x64` |
-| [bttf-0.1.4-x86_64-apple-darwin.tar.gz.sha256](https://github.com/BurntSushi/bttf/releases/download/0.1.4/bttf-0.1.4-x86_64-apple-darwin.tar.gz.sha256) | 104 B | `native/darwin/x64` |
-| [bttf-0.1.4-x86_64-pc-windows-gnu.zip](https://github.com/BurntSushi/bttf/releases/download/0.1.4/bttf-0.1.4-x86_64-pc-windows-gnu.zip) | 2.4 MiB | `native/win/x64` |
-| [bttf-0.1.4-x86_64-pc-windows-gnu.zip.sha256](https://github.com/BurntSushi/bttf/releases/download/0.1.4/bttf-0.1.4-x86_64-pc-windows-gnu.zip.sha256) | 173 B | `native/win/x64` |
-| [bttf-0.1.4-x86_64-pc-windows-msvc.zip](https://github.com/BurntSushi/bttf/releases/download/0.1.4/bttf-0.1.4-x86_64-pc-windows-msvc.zip) | 2.4 MiB | `native/win/x64` |
-| [bttf-0.1.4-x86_64-pc-windows-msvc.zip.sha256](https://github.com/BurntSushi/bttf/releases/download/0.1.4/bttf-0.1.4-x86_64-pc-windows-msvc.zip.sha256) | 174 B | `native/win/x64` |
-| [bttf-0.1.4-x86_64-unknown-linux-musl.tar.gz](https://github.com/BurntSushi/bttf/releases/download/0.1.4/bttf-0.1.4-x86_64-unknown-linux-musl.tar.gz) | 2.7 MiB | `native/linux/x64/musl` |
-| [bttf-0.1.4-x86_64-unknown-linux-musl.tar.gz.sha256](https://github.com/BurntSushi/bttf/releases/download/0.1.4/bttf-0.1.4-x86_64-unknown-linux-musl.tar.gz.sha256) | 110 B | `native/linux/x64/musl` |
+| [bttf-0.2.0-aarch64-apple-darwin.tar.gz](https://github.com/BurntSushi/bttf/releases/download/0.2.0/bttf-0.2.0-aarch64-apple-darwin.tar.gz) | 2.4 MiB | `native/darwin/arm64` |
+| [bttf-0.2.0-aarch64-apple-darwin.tar.gz.sha256](https://github.com/BurntSushi/bttf/releases/download/0.2.0/bttf-0.2.0-aarch64-apple-darwin.tar.gz.sha256) | 105 B | `native/darwin/arm64` |
+| [bttf-0.2.0-aarch64-unknown-linux-gnu.tar.gz](https://github.com/BurntSushi/bttf/releases/download/0.2.0/bttf-0.2.0-aarch64-unknown-linux-gnu.tar.gz) | 2.6 MiB | `native/linux/arm64/glibc` |
+| [bttf-0.2.0-aarch64-unknown-linux-gnu.tar.gz.sha256](https://github.com/BurntSushi/bttf/releases/download/0.2.0/bttf-0.2.0-aarch64-unknown-linux-gnu.tar.gz.sha256) | 110 B | `native/linux/arm64/glibc` |
+| [bttf-0.2.0-armv7-unknown-linux-gnueabihf.tar.gz](https://github.com/BurntSushi/bttf/releases/download/0.2.0/bttf-0.2.0-armv7-unknown-linux-gnueabihf.tar.gz) | 2.6 MiB | `native/linux/arm/glibc` |
+| [bttf-0.2.0-armv7-unknown-linux-gnueabihf.tar.gz.sha256](https://github.com/BurntSushi/bttf/releases/download/0.2.0/bttf-0.2.0-armv7-unknown-linux-gnueabihf.tar.gz.sha256) | 114 B | `native/linux/arm/glibc` |
+| [bttf-0.2.0-armv7-unknown-linux-musleabi.tar.gz](https://github.com/BurntSushi/bttf/releases/download/0.2.0/bttf-0.2.0-armv7-unknown-linux-musleabi.tar.gz) | 2.6 MiB | `native/linux/arm/musl` |
+| [bttf-0.2.0-armv7-unknown-linux-musleabi.tar.gz.sha256](https://github.com/BurntSushi/bttf/releases/download/0.2.0/bttf-0.2.0-armv7-unknown-linux-musleabi.tar.gz.sha256) | 113 B | `native/linux/arm/musl` |
+| [bttf-0.2.0-armv7-unknown-linux-musleabihf.tar.gz](https://github.com/BurntSushi/bttf/releases/download/0.2.0/bttf-0.2.0-armv7-unknown-linux-musleabihf.tar.gz) | 2.6 MiB | `native/linux/arm/musl` |
+| [bttf-0.2.0-armv7-unknown-linux-musleabihf.tar.gz.sha256](https://github.com/BurntSushi/bttf/releases/download/0.2.0/bttf-0.2.0-armv7-unknown-linux-musleabihf.tar.gz.sha256) | 115 B | `native/linux/arm/musl` |
+| [bttf-0.2.0-i686-pc-windows-msvc.zip](https://github.com/BurntSushi/bttf/releases/download/0.2.0/bttf-0.2.0-i686-pc-windows-msvc.zip) | 2.4 MiB | `native/win/x64` |
+| [bttf-0.2.0-i686-pc-windows-msvc.zip.sha256](https://github.com/BurntSushi/bttf/releases/download/0.2.0/bttf-0.2.0-i686-pc-windows-msvc.zip.sha256) | 172 B | `native/win/x64` |
+| [bttf-0.2.0-i686-unknown-linux-gnu.tar.gz](https://github.com/BurntSushi/bttf/releases/download/0.2.0/bttf-0.2.0-i686-unknown-linux-gnu.tar.gz) | 2.7 MiB | `native/linux/x86/glibc` |
+| [bttf-0.2.0-i686-unknown-linux-gnu.tar.gz.sha256](https://github.com/BurntSushi/bttf/releases/download/0.2.0/bttf-0.2.0-i686-unknown-linux-gnu.tar.gz.sha256) | 107 B | `native/linux/x86/glibc` |
+| [bttf-0.2.0-powerpc64-unknown-linux-gnu.tar.gz](https://github.com/BurntSushi/bttf/releases/download/0.2.0/bttf-0.2.0-powerpc64-unknown-linux-gnu.tar.gz) | 2.9 MiB | `native/unknown` |
+| [bttf-0.2.0-powerpc64-unknown-linux-gnu.tar.gz.sha256](https://github.com/BurntSushi/bttf/releases/download/0.2.0/bttf-0.2.0-powerpc64-unknown-linux-gnu.tar.gz.sha256) | 112 B | `other` |
+| [bttf-0.2.0-s390x-unknown-linux-gnu.tar.gz](https://github.com/BurntSushi/bttf/releases/download/0.2.0/bttf-0.2.0-s390x-unknown-linux-gnu.tar.gz) | 2.9 MiB | `native/unknown` |
+| [bttf-0.2.0-s390x-unknown-linux-gnu.tar.gz.sha256](https://github.com/BurntSushi/bttf/releases/download/0.2.0/bttf-0.2.0-s390x-unknown-linux-gnu.tar.gz.sha256) | 108 B | `other` |
+| [bttf-0.2.0-x86_64-apple-darwin.tar.gz](https://github.com/BurntSushi/bttf/releases/download/0.2.0/bttf-0.2.0-x86_64-apple-darwin.tar.gz) | 2.5 MiB | `native/darwin/x64` |
+| [bttf-0.2.0-x86_64-apple-darwin.tar.gz.sha256](https://github.com/BurntSushi/bttf/releases/download/0.2.0/bttf-0.2.0-x86_64-apple-darwin.tar.gz.sha256) | 104 B | `native/darwin/x64` |
+| [bttf-0.2.0-x86_64-pc-windows-gnu.zip](https://github.com/BurntSushi/bttf/releases/download/0.2.0/bttf-0.2.0-x86_64-pc-windows-gnu.zip) | 2.5 MiB | `native/win/x64` |
+| [bttf-0.2.0-x86_64-pc-windows-gnu.zip.sha256](https://github.com/BurntSushi/bttf/releases/download/0.2.0/bttf-0.2.0-x86_64-pc-windows-gnu.zip.sha256) | 173 B | `native/win/x64` |
+| [bttf-0.2.0-x86_64-pc-windows-msvc.zip](https://github.com/BurntSushi/bttf/releases/download/0.2.0/bttf-0.2.0-x86_64-pc-windows-msvc.zip) | 2.4 MiB | `native/win/x64` |
+| [bttf-0.2.0-x86_64-pc-windows-msvc.zip.sha256](https://github.com/BurntSushi/bttf/releases/download/0.2.0/bttf-0.2.0-x86_64-pc-windows-msvc.zip.sha256) | 174 B | `native/win/x64` |
+| [bttf-0.2.0-x86_64-unknown-linux-musl.tar.gz](https://github.com/BurntSushi/bttf/releases/download/0.2.0/bttf-0.2.0-x86_64-unknown-linux-musl.tar.gz) | 2.7 MiB | `native/linux/x64/musl` |
+| [bttf-0.2.0-x86_64-unknown-linux-musl.tar.gz.sha256](https://github.com/BurntSushi/bttf/releases/download/0.2.0/bttf-0.2.0-x86_64-unknown-linux-musl.tar.gz.sha256) | 110 B | `native/linux/x64/musl` |
 
 ## 发行版状态
 
-在 [repology.org](https://repology.org/project/bttf) 上共有 **7** 个发行版报告此项目。**6** 个 ✅ 已是最新上游版本，**0** 个 ⚠️ 使用旧版本。
+在 [repology.org](https://repology.org/project/bttf) 上共有 **7** 个发行版报告此项目。**4** 个 ✅ 已是最新上游版本，**2** 个 ⚠️ 使用旧版本。
 
 | 发行版 | 版本 | 状态 |
 |--------|------|------|
-| Homebrew | `0.1.4` | ✅ latest |
-| Nix unstable | `0.1.4` | ✅ latest |
+| Homebrew | `0.2.0` | ✅ latest |
+| Nix unstable | `0.1.4` | ⚠️ outdated |
 
 ## 改进这些数据
 
@@ -103,4 +103,4 @@ bttf 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) 索
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/261122.yml` · 2026-11-22T08:37:03Z._
+_数据快照: `data/card/261123.yml` · 2026-11-23T08:17:57Z._
