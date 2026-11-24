@@ -28,9 +28,9 @@
   srcname: sysutils/bttf
   binname: bttf
   visiblename: sysutils/bttf
-  version: 0.1.4
-  origversion: 0.1.4_4
-  status: outdated
+  version: 0.2.0
+  origversion: null
+  status: newest
   summary: Command-line utility for datetime arithmetic, parsing and formatting
   maintainers:
     - olgeni@freebsd.org
