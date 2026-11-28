@@ -427,7 +427,7 @@
       "state": "uploaded",
       "size": 2517093,
       "digest": "sha256:901102e47a233046b7ad358fdd637956d49f7088c139ad4c83d9f509b80ccd5a",
-      "download_count": 27,
+      "download_count": 30,
       "created_at": "2026-11-22T21:06:08Z",
       "updated_at": "2026-11-22T21:06:08Z",
       "browser_download_url": "https://github.com/BurntSushi/bttf/releases/download/0.2.0/bttf-0.2.0-i686-pc-windows-msvc.zip"
@@ -859,7 +859,7 @@
       "state": "uploaded",
       "size": 2565431,
       "digest": "sha256:88cb91e562f35946269423ce50b353f39e9506d611d4abbb6fcd5a28ebcea18a",
-      "download_count": 49,
+      "download_count": 53,
       "created_at": "2026-11-22T21:06:10Z",
       "updated_at": "2026-11-22T21:06:10Z",
       "browser_download_url": "https://github.com/BurntSushi/bttf/releases/download/0.2.0/bttf-0.2.0-x86_64-pc-windows-msvc.zip"
@@ -931,7 +931,7 @@
       "state": "uploaded",
       "size": 2839364,
       "digest": "sha256:c01f70d980972f2d1fdbb222574f04ea02140fafaf9b161c5aa74f6cd5f059bd",
-      "download_count": 30,
+      "download_count": 32,
       "created_at": "2026-11-22T21:05:43Z",
       "updated_at": "2026-11-22T21:05:44Z",
       "browser_download_url": "https://github.com/BurntSushi/bttf/releases/download/0.2.0/bttf-0.2.0-x86_64-unknown-linux-musl.tar.gz"
